@@ -1,1 +1,1 @@
-# VS-Code-landing-page
+# VS-Code-landing-page-mockup
