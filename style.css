@@ -8,10 +8,10 @@ body {
     padding-left: 20px;
 }
 
-/* .navbar-items {
+.navbar-items {
     display: flex;
-    justify-content: center;
-} */
+    align-item: center;
+}
 
 .search-button {
     border-radius: 4px;
