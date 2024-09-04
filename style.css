@@ -1,0 +1,39 @@
+body {
+    background-color: #0e0e0e;
+}
+
+.navbarLink {
+    color: #9ba3b4;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+/* .navbar-items {
+    display: flex;
+    justify-content: center;
+} */
+
+.search-button {
+    border-radius: 4px;
+    padding: 8px 16px;
+    background-color: #0078d4;
+    color: White;
+    border-style: none;
+    margin-left: 3px;
+    font-size: medium;
+}
+
+.download-button {
+    border-radius: 4px;
+    padding: 12px 20px;
+    background-color: #0078d4;
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 200px;
+    border-style: none;
+}
+
+a {
+    color: #4daafc;
+}
